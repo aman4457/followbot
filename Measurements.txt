@@ -1,0 +1,6 @@
+Measurements 
+
+L Anchor -19.75 cm from 0,0
+R Anchor  19.75 cm form 0,0
+
+back Anchor 33 cm from 0,0
